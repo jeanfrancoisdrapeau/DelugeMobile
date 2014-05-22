@@ -1,0 +1,30 @@
+# Version: 7.2.2.2 (db4427f)
+# [first argument, ignore] # /Users/Jeff/Projects/DelugeMobile/DelugeMobile/bin/iPhoneSimulator/Release/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhoneSimulator/Release/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/Jeff/Projects/DelugeMobile/DelugeMobile/bin/iPhoneSimulator/Release/DelugeMobile.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-r \
+	/Users/Jeff/Projects/libdelugeclient-sharp-master/libdelugeclient-sharp-master/libdelugeclient-sharp/bin/Release/libdelugeclient-sharp.dll \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/Jeff/Projects/DelugeMobile/DelugeMobile/bin/iPhoneSimulator/Release/DelugeMobile.exe \

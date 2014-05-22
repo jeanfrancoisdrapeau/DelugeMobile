@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		343FFE850000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D10B230000000000000000 /* UIKit.framework */; };
+		15D5A1B80000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1966AE560000000000000000 /* MapKit.framework */; };
+		2B090A500000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E9A16EE0000000000000000 /* Foundation.framework */; };
+		1E73EC990000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2204F9370000000000000000 /* CoreGraphics.framework */; };
+		16F85B9E0000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A89683C0000000000000000 /* Default-568h@2x.png */; };
+		2C2BC4360000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FBCD0D40000000000000000 /* Info.plist */; };
+		1A5685200000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1DE791BE0000000000000000 /* Entitlements.plist */; };
+		881460A00000000000000000 /* CustomTorrentCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C1252A800000000000000000 /* CustomTorrentCell.xib */; };
+		3BEC28530000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 3F7D34F10000000000000000 /* AppDelegate.h */; };
+		3D6859F80000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F96696000000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2B56D4A70000000000000000 /* DelugeMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "DelugeMobile.app"; path = "DelugeMobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37D10B230000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		1966AE560000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		2E9A16EE0000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		2204F9370000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		1A89683C0000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2FBCD0D40000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		1DE791BE0000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		C1252A800000000000000000 /* CustomTorrentCell.xib */ = {isa = PBXFileReference; name = "CustomTorrentCell.xib"; path = "CustomTorrentCell.xib"; sourceTree = "<group>"; };
+		3F7D34F10000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		F96696000000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1B96708A0000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				343FFE850000000000000000 /* UIKit.framework in Frameworks */,
+				15D5A1B80000000000000000 /* MapKit.framework in Frameworks */,
+				2B090A500000000000000000 /* Foundation.framework in Frameworks */,
+				1E73EC990000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3BAFE2180000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				264996640000000000000000 /* DelugeMobile */,
+				66307F200000000000000000 /* Frameworks */,
+				30FCBC3E0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		30FCBC3E0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B56D4A70000000000000000 /* DelugeMobile.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		66307F200000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				37D10B230000000000000000 /* UIKit.framework */,
+				1966AE560000000000000000 /* MapKit.framework */,
+				2E9A16EE0000000000000000 /* Foundation.framework */,
+				2204F9370000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		264996640000000000000000 /* DelugeMobile */ = {
+			isa = PBXGroup;
+			children = (
+				3F7D34F10000000000000000 /* AppDelegate.h */,
+				C1252A800000000000000000 /* CustomTorrentCell.xib */,
+				1A89683C0000000000000000 /* Default-568h@2x.png */,
+				1DE791BE0000000000000000 /* Entitlements.plist */,
+				2FBCD0D40000000000000000 /* Info.plist */,
+				3F4A51D50000000000000000 /* Supporting Files */,
+			);
+			name = "DelugeMobile";
+			sourceTree = "<group>";
+		};
+		3F4A51D50000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F96696000000000000000000 /* AppDelegate.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		239C12170000000000000000 /* DelugeMobile */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 20A3AECD0000000000000000 /* Build configuration list for PBXNativeTarget "DelugeMobile" */;
+			buildPhases = (
+				9C1317400000000000000000 /* Sources */,
+				1B96708A0000000000000000 /* Frameworks */,
+				32ABD0FF0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DelugeMobile";
+			productName = "DelugeMobile";
+			productReference = 2B56D4A70000000000000000 /* DelugeMobile.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18E8EC3D0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 15F088F30000000000000000 /* Build configuration list for PBXProject "DelugeMobile" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3BAFE2180000000000000000;
+			productRefGroup = 30FCBC3E0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				239C12170000000000000000 /* DelugeMobile */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		32ABD0FF0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16F85B9E0000000000000000 /* Default-568h@2x.png in Resources */,
+				2C2BC4360000000000000000 /* Info.plist in Resources */,
+				1A5685200000000000000000 /* Entitlements.plist in Resources */,
+				881460A00000000000000000 /* CustomTorrentCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9C1317400000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BEC28530000000000000000 /* AppDelegate.h in Sources */,
+				3D6859F80000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		176CBA980000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		B3D631900000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "DelugeMobile";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		15F088F30000000000000000 /* Build configuration list for PBXProject "DelugeMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				176CBA980000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		20A3AECD0000000000000000 /* Build configuration list for PBXNativeTarget "DelugeMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B3D631900000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18E8EC3D0000000000000000 /* Project object */;
+}

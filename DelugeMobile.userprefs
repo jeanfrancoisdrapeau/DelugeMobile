@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelugeMobile/CustomTorrentCell.cs">
+    <Files>
+      <File FileName="DelugeMobile/Screens/vcTorrentsScreen.cs" Line="119" Column="17" />
+      <File FileName="DelugeMobile/Info.plist" />
+      <File FileName="DelugeMobile/CustomTorrentCell.cs" Line="26" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../ProScanMobile+/ProScanMobile+/Classes/Log.cs" line="34" offsetX="758" offsetY="307" expression="ProScanMobile.Log._log" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>../libdelugeclient-sharp-master/libdelugeclient-sharp-master/libdelugeclient-sharp/libdelugeclient-sharp.csproj</String>
+  </DisabledProjects>
+</Properties>

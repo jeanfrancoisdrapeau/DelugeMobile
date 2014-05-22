@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelugeMobile", "DelugeMobile\DelugeMobile.csproj", "{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Release|iPhone.Build.0 = Release|iPhone
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EC8ED371-B3C6-4DF2-9F1B-7F97EF2E795C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DelugeMobile\DelugeMobile.csproj
+	EndGlobalSection
+EndGlobal

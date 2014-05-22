@@ -1,0 +1,9 @@
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/DelugeMobile.exe
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/libdelugeclient-sharp.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/System.Json.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/Jeff/Projects/DelugeMobile/DelugeMobile/obj/iPhone/Debug/mtouch-cache/Link/System.dll
